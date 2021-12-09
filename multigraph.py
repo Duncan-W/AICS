@@ -103,7 +103,7 @@ farm = {
 }
 
 max_nnn=5
-cur_data = macedonia
+cur_data = gas
 
 if cur_data["online"]:
     url = "https://raw.githubusercontent.com/Duncan-W/data/main/"+cur_data["filename"] +".csv"
